@@ -7,4 +7,3 @@ The *ExchangeGraphs.ipynb notebook details the function to generate the exchange
 The *ML.py script performs machine learning with dense feed-forward neural networks from the sci-kit learn package:  
 ...one must first ensure the filepath is correct for the investigation one wishes to perform, then cells can be run sequentially.  
 ...sample datasets for the investigations in the paper are available in the *TensorData directory.  
-
