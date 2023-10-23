@@ -17,7 +17,9 @@ The `ML.py` script performs machine learning with dense feed-forward neural netw
     archivePrefix = "arXiv",
     primaryClass = "math.CO",
     reportNumber = "LIMS-2022-011",
-    month = "3",
-    year = "2022"
+    doi = "10.1016/j.jaca.2023.100008",
+    journal = "J. Comput. Algebra",
+    volume = "8",
+    year = "2023"
 }
 ```
