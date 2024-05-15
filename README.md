@@ -1,7 +1,7 @@
 # ClusterAlgebrasML
 Supervised machine learning techniques, and general network analysis methods are applied to Cluster Algebras and their exchange graphs.  
 
-The `ExchangeGraphs.ipynb` notebook details the function to generate the exchange graphs (built on the sage ClusterSeed object, please run with a sage kernel ([sagemath.org](https://www.sagemath.org/)), or via their online cell ([CoCalc](https://cocalc.com/))):  
+The `ExchangeGraphs.ipynb` notebook details the function to generate the exchange graphs; built on the sage ClusterSeed object, please run with a sage kernel ([sagemath.org](https://www.sagemath.org/)), or via their online cell ([CoCalc](https://cocalc.com/)):  
 ~ As described in the script there is functionality to generate the exchange graphs, perform various network analyses and plot certain cycle embeddings, and also generate data (as seeds in a tensor format) for machine learning.  
 
 The `ML.py` script performs machine learning with dense feed-forward neural networks from the sci-kit learn package:  
